@@ -6,7 +6,7 @@
 - HTML
 - CSS
 - JS
-- Luau (not using it for now bc hyperion)
+- ~~Luau~~ (fuck roblox and byfron)
 
 ### libraries i use:
 
