@@ -13,7 +13,10 @@
 #### Frontend:
 - Tailwind
 - Bootstrap
+- Nuxt UI
 
 #### Backend:
 - Discord.js (for Discord bots)
 - Express.js (for my API, WIP)
+- Astro
+- Nuxt.js
